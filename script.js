@@ -67,6 +67,7 @@
           lettersguess = []
         }
 
+
 // the var html that is going to be inserted into the HTML.
         var html =
           "<h1> Psychic Game </h1>" +
